@@ -26,7 +26,7 @@ A partir disso, propor caminhos estratégicos para retenção de clientes com ba
 
 ## Dashboard – Página 1
 
-![Dashboard Página 1](Projeto Churn.pdf)
+![Dashboard Página 1](Projeto Churn.jpeg)
 
 
 ## Principais Insights
